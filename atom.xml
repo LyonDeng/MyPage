@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>For better life</title>
+  <icon>https://www.gravatar.com/avatar/83a9db11c951cb99bf37e4acb7b7d2f6</icon>
+  
+  <link href="https://lyondeng.github.io/MyPage/atom.xml" rel="self"/>
+  
+  <link href="https://lyondeng.github.io/MyPage/"/>
+  <updated>2021-08-13T05:46:19.120Z</updated>
+  <id>https://lyondeng.github.io/MyPage/</id>
+  
+  <author>
+    <name>Lyon Deng</name>
+    <email>lyon_deng@sjtu.edu.cn</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Publications</title>
+    <link href="https://lyondeng.github.io/MyPage/2021/08/13/publications/"/>
+    <id>https://lyondeng.github.io/MyPage/2021/08/13/publications/</id>
+    <published>2021-08-12T17:46:12.000Z</published>
+    <updated>2021-08-13T05:46:19.120Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Year-2020&quot;&gt;&lt;a href=&quot;#Year-2020&quot; class=&quot;headerlink&quot; title=&quot;Year: 2020&quot;&gt;&lt;/a&gt;Year: 2020&lt;/h2&gt;&lt;h4 id=&quot;Journal&quot;&gt;&lt;a href=&quot;#Journal&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="works" scheme="https://lyondeng.github.io/MyPage/categories/works/"/>
+    
+    <category term="publications" scheme="https://lyondeng.github.io/MyPage/categories/works/publications/"/>
+    
+    
+    <category term="journal" scheme="https://lyondeng.github.io/MyPage/tags/journal/"/>
+    
+    <category term="conference" scheme="https://lyondeng.github.io/MyPage/tags/conference/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!!!</title>
+    <link href="https://lyondeng.github.io/MyPage/2021/08/12/hello-world/"/>
+    <id>https://lyondeng.github.io/MyPage/2021/08/12/hello-world/</id>
+    <published>2021-08-12T12:25:39.507Z</published>
+    <updated>2021-08-13T06:28:02.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Study" scheme="https://lyondeng.github.io/MyPage/tags/Study/"/>
+    
+  </entry>
+  
+</feed>
